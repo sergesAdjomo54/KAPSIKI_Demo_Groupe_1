@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d73f4a04-a40e-470a-9339-88a7eba3dc45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1oYnBioOm7UTp1jS39eb79phclf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RegistrationLoginSpringBootSecurityThymeleafApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.springboot.RegistrationLoginSpringBootSecurityThymeleafApplication" />
+      <module name="registration-login-spring-boot-security-thymeleaf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.javaguides.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RegistrationLoginSpringBootSecurityThymeleafApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d73f4a04-a40e-470a-9339-88a7eba3dc45" name="Default Changelist" comment="" />
+      <created>1613472257367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613472257367</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="188" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1613515141998">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="188" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.864@0.0.1536.864" timestamp="1613515141998" />
+    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1613521456424">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1613521456424" />
+    <state width="1493" height="172" key="GridCell.Tab.0.bottom" timestamp="1613528430914">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="172" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1613528430914" />
+    <state width="1493" height="172" key="GridCell.Tab.0.center" timestamp="1613528430914">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="172" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1613528430914" />
+    <state width="1493" height="172" key="GridCell.Tab.0.left" timestamp="1613528430914">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="172" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1613528430914" />
+    <state width="1493" height="172" key="GridCell.Tab.0.right" timestamp="1613528430914">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="172" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1613528430914" />
+    <state x="0" y="117" width="610" height="593" key="new project wizard" timestamp="1613502159728">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="117" width="610" height="593" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1613502159728" />
+  </component>
+</project>
